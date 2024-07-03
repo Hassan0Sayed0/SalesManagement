@@ -1,1 +1,10 @@
 D:\projects\SalesManagement\SalesManagement\bin\Debug\SalesManagement.exe.config
+D:\projects\salesManagement\SalesManagement\bin\Debug\SalesManagement.exe
+D:\projects\salesManagement\SalesManagement\bin\Debug\SalesManagement.pdb
+D:\projects\salesManagement\SalesManagement\obj\Debug\SalesManagement.csprojResolveAssemblyReference.cache
+D:\projects\salesManagement\SalesManagement\obj\Debug\SalesManagement.Properties.Resources.resources
+D:\projects\salesManagement\SalesManagement\obj\Debug\SalesManagement.csproj.GenerateResource.Cache
+D:\projects\salesManagement\SalesManagement\obj\Debug\SalesManagement.exe
+D:\projects\salesManagement\SalesManagement\obj\Debug\SalesManagement.pdb
+D:\projects\salesManagement\SalesManagement\obj\Debug\SalesManagement.Form1.resources
+D:\projects\salesManagement\SalesManagement\obj\Debug\SalesManagement.Scrrens.OrderScreen.OrderScreen.resources
